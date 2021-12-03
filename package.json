@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jayampathiadhikari/zedeid-core-obfuscated.git"
+    "url": "git+https://github.com/RadicalLedger/zedeid-did-siop-lib-core-obf.git"
   },
   "keywords": [
     "Self_Issued_OpenIDConnect_Provider",
@@ -30,10 +30,6 @@
   ],
   "author": "SanujaLW",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/RadicalLedger/did-siop-lib/issues"
-  },
-  "homepage": "https://github.com/RadicalLedger/did-siop-lib#readme",
   "devDependencies": {
     "@babel/cli": "^7.10.5",
     "@babel/core": "^7.9.6",
